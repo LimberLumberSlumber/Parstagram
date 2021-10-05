@@ -28,14 +28,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/ILpI20N.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+![ParstagramPart1](https://user-images.githubusercontent.com/66243489/136080258-ee8fa05c-652f-409b-ba9d-bf9ae7c2dd90.gif)
 
 GIF created with ScreenToGif.
 
 ## Notes
 
 At least one of the walkthrough videos were subpar. It had some edits/jumps that were somewhat confusing and included some extra code/info that wasn't used to complete this week's assignment.
+Also had an issue with a manifest merger issue that was fixed by adding a line in a gradle file.
 
 ## Open-source libraries used
 
